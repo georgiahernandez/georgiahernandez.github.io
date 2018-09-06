@@ -1,5 +1,5 @@
 ![Image of Georgia Hernández-Corrales](images/LS_2018.png
-"REPLACE_WITH_SHORT_DESCRIPTION")
+"Searching for Monstera tenuis")
 ## About Me
 I am a MS student in the UConn EEB department
 interested in thermal tolerances of Zingiberales.
