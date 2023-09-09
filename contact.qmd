@@ -1,0 +1,25 @@
+---
+title: "Contact info"
+image: contact.jpg
+toc: false
+about: 
+  template: broadside
+---
+
+::: {#hero-heading}
+#### Email
+
+georgia.hernandez-corrales\@uconn.edu
+
+#### Address
+
+Department of Ecology and Evolutionary Biology
+
+University of Connecticut Storrs
+
+CT 06269-3034
+
+USA
+
+![](uconn_logo.png){fig-align="left" width="3.5cm"}
+:::

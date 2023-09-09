@@ -1,0 +1,19 @@
+# Publications
+
+::: {#list}
+:::
+
+::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+::: {#ref-garcia2020erwin .csl-entry}
+Garcı́a-Robledo, C., Kuprewicz, E. K., Baer, C. S., Clifton, E.,
+Hernández, G. G., & Wagner, D. L. (2020). The erwin equation of
+biodiversity: From little steps to quantum leaps in the discovery of
+tropical insect diversity. *Biotropica*, *52*(4), 590--597.
+:::
+
+::: {#ref-slot2019photosynthetic .csl-entry}
+Slot, M., Krause, G. H., Krause, B., Hernández, G. G., & Winter, K.
+(2019). Photosynthetic heat tolerance of shade and sun leaves of three
+tropical tree species. *Photosynthesis Research*, *141*, 119--130.
+:::
+:::

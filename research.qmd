@@ -1,0 +1,46 @@
+---
+title: "Research"
+toc: false
+---
+
+::: panel-tabset
+## Present
+
+##### **Keeping up with the heat: Evaluating plants ability to acclimate to local temperatures using a long-term survey of heat tolerance in a tropical plant community**
+
+Plant populations are already facing increasing temperatures, and must adapt or migrate to avoid local extinctions. Long-term temperature records show that global warming is already affecting tropical biomes such as the wet forest at La Selva Biological Station located in the Caribbean lowlands of Costa Rica, Central America.
+
+In this project, I will determine if Zingiberales species can acclimate to local air temperatures and modify their specific heat tolerance over the years.
+
+![Alejandra Perez & Raquel Castro following the protocol to determine heat tolerance](research_3.jpg){fig-align="center" width="15cm"}
+
+![](ots_logo.png){fig-align="center" width="4.2cm" height="2cm"}
+
+## Past
+
+##### **Evolutionary history constrains heat tolerance of native and exotic tropical Zingiberales**
+
+We determine the highest temperature at which photosynthesis declines in the Zingiberales community of La Selva Biological Station, a Caribbean lowland forest in Costa Rica. Our results show that traits from common ancestors strongly affect the temperature at which photosynthesis declines. A surprising result was that the effect of temperature on photosynthesis was not associated with plants in a particular habitat. Biodiversity loss by climate change might not be randomly distributed across the phylogenetic tree. The consequence of such differences for survival and fitness remain unknown, but might determine which species will tolerate future temperatures in a warming world.
+
+[Paper](https://doi.org/10.1111/1365-2435.14191)
+
+[Plain language summary](https://fesummaries.wordpress.com/2022/09/28/closely-related-tropical-herbs-have-similar-tolerance-to-high-temperatures)
+
+[Blog](https://functionalecologists.com/2023/05/04/georgia-hernandez-corrales-closely-related-tropical-herbs-have-similar-tolerance-to-high-temperatures)
+
+![](research_2.jpg){fig-align="center"}
+
+![](ots_logo.png){fig-align="center" width="4.2cm" height="2cm"}
+
+##### **Similar temperature dependence of photosynthetic parameters in sun and shade leaves of three tropical tree species**
+
+To provide accurate input to models, the temperature sensitivity of net photosynthesis, we first need to understand the differences on photosynthetic biochemistry and stomatal conductance imposed by the canopy vertical gradient. Together these results provide justification for the use of the same temperature response parameters for all layers in the canopy (sun and shade leaves).
+
+[Paper](https://academic.oup.com/treephys/article/40/5/637/5743162?login=false)
+
+![](research_1.jpg)
+
+![](smithsonian_logo.png){fig-align="center" width="2cm"}
+:::
+
+## 

@@ -1,0 +1,21 @@
+---
+title: "Georgia G. Hernández"
+image: profile.jpg
+toc: false
+about: 
+  template: broadside
+---
+
+::: {#hero-heading}
+## About me
+
+I am a PhD candidate in the [Carlos García Robledo Lab](http://carlosgarciarobledo.org/UCONN/) and [Jeff Seemann Lab](https://scholar.google.com/citations?hl=en&user=ARrQFV4AAAAJ&view_op=list_works&sortby=pubdate) at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu), University of Connecticut.
+
+I am interested on how plants deal with **temperature**, especially under the current and future **global warming**. I focus in understanding the effects of climate change on plants, from the leaf level to communities. Combining **physiological** and **demographic** **techniques** I will be able to identify potential species' capacity to tolerate climate stresses and how communities will eventually fluctuate on time and space.
+
+## Education
+
+Ph.D. Candidate. University of Connecticut
+
+B.Sc. Biology. Universidad Nacional de Costa Rica
+:::
