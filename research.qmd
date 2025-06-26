@@ -6,17 +6,29 @@ toc: false
 ::: panel-tabset
 ## Present
 
+##### **A widescale assessment of heat tolerance in the California flora: Identifying predictors and vulnerabilities for plant conservation in a warming world**
+
+Our research identifies the key predictors of plant heat tolerance across California's diverse ecosystems. We are investigating how a plant’s heat tolerance is shaped by its leaf morphology, evolutionary lineage, and local climate. A central goal is to determine whether heat tolerance is linked more closely to "carbon economic" traits that govern long-term growth or to "energy balance" traits that regulate leaf temperature.
+
+![Hasting Natural History Reservation, University of California Natural Reserve System](research_4.jpg){fig-align="center" width="15cm"}
+
+This large-scale assessment, conducted at 14 sites throughout California, will help identify species vulnerable to climate change and guide conservation strategies.
+
+![Distribution of collection sites across California, USA](research_5.jpg){fig-align="center"}
+
+![](UCDavis_color.png){fig-align="center" width="3cm"}
+
+## Past
+
 ##### **Keeping up with the heat: Evaluating plants ability to acclimate to local temperatures using a long-term survey of heat tolerance in a tropical plant community**
 
 Plant populations are already facing increasing temperatures, and must adapt or migrate to avoid local extinctions. Long-term temperature records show that global warming is already affecting tropical biomes such as the wet forest at La Selva Biological Station located in the Caribbean lowlands of Costa Rica, Central America.
 
-In this project, I will determine if Zingiberales species can acclimate to local air temperatures and modify their specific heat tolerance over the years.
+In this project, I determined if Zingiberales species can acclimate to local air temperatures and if their specific heat tolerance changes over the span of 7 years.
 
 ![Alejandra Perez & Raquel Castro following the protocol to determine heat tolerance](research_3.jpg){fig-align="center" width="15cm"}
 
 ![](ots_logo.png){fig-align="center" width="4.2cm" height="2cm"}
-
-## Past
 
 ##### **Evolutionary history constrains heat tolerance of native and exotic tropical Zingiberales**
 

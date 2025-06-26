@@ -3,6 +3,7 @@
 /_site/
 
 .DS_Store
+.Rhistory
 
 # Emacs temporary files
 *~

@@ -3,24 +3,42 @@
 ::: {#list}
 :::
 
-::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+:::::::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
 ::: {#ref-hernandez2022evolutionary .csl-entry}
-**Hernández, G. G.**, Perez, T. M., Vargas, O. M., Kress, W. J., Molina-Bravo, R., Cordero, R. A., Seemann, J. R., & Garcı́a-Robledo, C. (2022). Evolutionary history constrains heat tolerance of native and exotic tropical zingiberales. *Functional Ecology*, *36*(12), 3073--3084. <https://doi.org/10.1111/1365-2435.14191>
+**Hernández, G. G.**, Perez, T. M., Vargas, O. M., Kress, W. J.,
+Molina-Bravo, R., Cordero, R. A., Seemann, J. R., & Garcı́a-Robledo, C.
+(2022). Evolutionary history constrains heat tolerance of native and
+exotic tropical zingiberales. *Functional Ecology*, *36*(12),
+3073--3084. <https://doi.org/10.1111/1365-2435.14191>
 :::
 
 ::: {#ref-slot2021large .csl-entry}
-Slot, M., Nardwattanawong, T., **Hernández, G. G.**, Bueno, A., Riederer, M., & Winter, K. (2021). Large differences in leaf cuticle conductance and its temperature response among 24 tropical tree species from across a rainfall gradient. *New Phytologist*, *232*(4), 1618--1631. <https://doi.org/10.1111/nph.17626>
+Slot, M., Nardwattanawong, T., **Hernández, G. G.**, Bueno, A., Riederer,
+M., & Winter, K. (2021). Large differences in leaf cuticle conductance
+and its temperature response among 24 tropical tree species from across
+a rainfall gradient. *New Phytologist*, *232*(4), 1618--1631.
+<https://doi.org/10.1111/nph.17626>
 :::
 
 ::: {#ref-garcia2020erwin .csl-entry}
-Garcı́a-Robledo, C., Kuprewicz, E. K., Baer, C. S., Clifton, E., **Hernández, G. G.**, & Wagner, D. L. (2020). The erwin equation of biodiversity: From little steps to quantum leaps in the discovery of tropical insect diversity. *Biotropica*, *52*(4), 590--597. <https://doi.org/10.1111/btp.12811>
+Garcı́a-Robledo, C., Kuprewicz, E. K., Baer, C. S., Clifton, E.,
+**Hernández, G. G.**, & Wagner, D. L. (2020). The erwin equation of
+biodiversity: From little steps to quantum leaps in the discovery of
+tropical insect diversity. *Biotropica*, *52*(4), 590--597.
+<https://doi.org/10.1111/btp.12811>
 :::
 
 ::: {#ref-hernandez2020similar .csl-entry}
-**Hernández, G. G.**, Winter, K., & Slot, M. (2020). Similar temperature dependence of photosynthetic parameters in sun and shade leaves of three tropical tree species. *Tree Physiology*, *40*(5), 637--651. <https://doi.org/10.1093/treephys/tpaa015>
+**Hernández, G. G.**, Winter, K., & Slot, M. (2020). Similar temperature
+dependence of photosynthetic parameters in sun and shade leaves of three
+tropical tree species. *Tree Physiology*, *40*(5), 637--651.
+<https://doi.org/10.1093/treephys/tpaa015>
 :::
 
 ::: {#ref-slot2019photosynthetic .csl-entry}
-Slot, M., Krause, G. H., Krause, B., **Hernández, G. G.**, & Winter, K. (2019). Photosynthetic heat tolerance of shade and sun leaves of three tropical tree species. *Photosynthesis Research*, *141*, 119--130. <https://doi.org/10.1007/s11120-018-0563-3>
+Slot, M., Krause, G. H., Krause, B., **Hernández, G. G.**, & Winter, K.
+(2019). Photosynthetic heat tolerance of shade and sun leaves of three
+tropical tree species. *Photosynthesis Research*, *141*, 119--130.
+<https://doi.org/10.1007/s11120-018-0563-3>
 :::
-:::
+::::::::

@@ -10,7 +10,7 @@ website:
         text: About
       - research.qmd
       - publications.qmd
-      - href: CVGGH-20230709.pdf
+      - href: CVGGH_20250625.pdf
         text: CV
       - href: contact.qmd
   page-footer: 

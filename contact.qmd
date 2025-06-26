@@ -9,17 +9,31 @@ about:
 ::: {#hero-heading}
 #### Email
 
-georgia.hernandez-corrales\@uconn.edu
+ggher\@ucdavis.edu
+
+<div style="display: flex; align-items: center; gap: 10px;">
+<a href="https://orcid.org/0000-0002-1076-7200" target="_blank" rel="noopener noreferrer">
+  <img src="ORCID_logo.png" alt="Orcid Icon" style="width:1.2cm; border:0;">
+</a>
+
+<a href="https://scholar.google.com/citations?user=e7hRmu0AAAAJ&hl=es&authuser=1" target="_blank" rel="noopener noreferrer">
+  <img src="GoogleScholar_logo.png" alt="GoogleScholar Icon" style="width:1.45cm; border:0;">
+</a>
+
+<a href="https://www.researchgate.net/profile/Georgia-Hernandez?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">
+  <img src="ResearchGate_logo.png" alt="ResearchGate Icon" style="width:1.2cm; border:0;">
+</a>
+
+</div>
+
 
 #### Address
 
-Department of Ecology and Evolutionary Biology
+Department of Plant Sciences
 
-University of Connecticut Storrs
+University of California, Davis
 
-CT 06269-3034
+CA, USA
 
-USA
-
-![](uconn_logo.png){fig-align="left" width="3.5cm"}
+![](UCDavis_color.png){fig-align="left" width="3.5cm"}
 :::
