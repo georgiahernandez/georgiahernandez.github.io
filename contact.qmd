@@ -35,5 +35,5 @@ University of California, Davis
 
 CA, USA
 
-![](UCDavis_color.png){fig-align="left" width="3.5cm"}
+![](UCDavis_color.png){fig-align="left" width="4cm"}
 :::

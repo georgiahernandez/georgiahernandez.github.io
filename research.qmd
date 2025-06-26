@@ -26,7 +26,7 @@ Plant populations are already facing increasing temperatures, and must adapt or 
 
 In this project, I determined if Zingiberales species can acclimate to local air temperatures and if their specific heat tolerance changes over the span of 7 years.
 
-![Alejandra Perez & Raquel Castro following the protocol to determine heat tolerance](research_3.jpg){fig-align="center" width="15cm"}
+![Alejandra Perez & Raquel Castro following the protocol to determine heat tolerance, at La Selva, Costa Rica.](research_3.jpg){fig-align="center" width="15cm"}
 
 ![](ots_logo.png){fig-align="center" width="4.2cm" height="2cm"}
 
@@ -40,7 +40,7 @@ We determine the highest temperature at which photosynthesis declines in the Zin
 
 [Blog](https://functionalecologists.com/2023/05/04/georgia-hernandez-corrales-closely-related-tropical-herbs-have-similar-tolerance-to-high-temperatures)
 
-![](research_2.jpg){fig-align="center"}
+![Heliconia mathiasiae, La Selva Biological Station, Costa Rica.](research_2.jpg){fig-align="center"}
 
 ![](ots_logo.png){fig-align="center" width="4.2cm" height="2cm"}
 

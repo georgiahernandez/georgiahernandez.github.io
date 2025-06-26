@@ -9,7 +9,7 @@ about:
 ::: {#hero-heading}
 ## About me
 
-I am interested on how plants deal with **temperature**, especially under the current and future **global warming**. I focus in understanding the effects of climate change on plants, from the leaf level to communities. Combining **physiological** and **demographic** **techniques** I want to identify potential species' capacity to tolerate climate stresses and how communities will eventually fluctuate on time and space.
+I am interested in understanding the **effects of climate change on plants**, from the leaf level to communities. Combining **physiological** and demographic techniques I aim to identify potential species’ capacity to tolerate climate stresses and how communities will eventually fluctuate on **time and space**.
 
 ## Education
 

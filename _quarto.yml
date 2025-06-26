@@ -14,7 +14,7 @@ website:
         text: CV
       - href: contact.qmd
   page-footer: 
-    left: "Copyright 2023, Georgia G. Hernández"
+    left: "Copyright 2025, Georgia G. Hernández"
 
 format:
   html:
