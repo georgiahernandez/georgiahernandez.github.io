@@ -9,8 +9,6 @@ website:
       - href: index.qmd
         text: About
       - research.qmd
-      - href: graphs.qmd
-        text: Visualizations
       - href: publications.qmd
       - href: CV_GGH_20251016.pdf
         text: CV
