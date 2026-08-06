@@ -3,7 +3,15 @@
 ::: {#list}
 :::
 
-:::::::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+::::::::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+::: {#ref-hernandez2026newphyto .csl-entry}
+**Hernández, G. G.**, Slot, M., Cunha Godoy, L. da, Castro-Lara, R.,
+Pérez-Enríquez, A., Seemann, J. R., & García-Robledo, C. (2026). Keeping
+up with the heat: Long-term dynamics and plasticity of heat tolerance in
+a tropical plant community. *New Phytologist*, *251*(5), 2459--2467.
+https://doi.org/<https://doi.org/10.1111/nph.71394>
+:::
+
 ::: {#ref-hernandez2022evolutionary .csl-entry}
 **Hernández, G. G.**, Perez, T. M., Vargas, O. M., Kress, W. J.,
 Molina-Bravo, R., Cordero, R. A., Seemann, J. R., & Garcı́a-Robledo, C.
@@ -41,4 +49,4 @@ Slot, M., Krause, G. H., Krause, B., **Hernández, G. G.**, & Winter, K.
 tropical tree species. *Photosynthesis Research*, *141*, 119--130.
 <https://doi.org/10.1007/s11120-018-0563-3>
 :::
-::::::::
+:::::::::
