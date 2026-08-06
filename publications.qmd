@@ -4,12 +4,11 @@
 :::
 
 ::::::::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
-::: {#ref-hernandez2026newphyto .csl-entry}
+::: {#ref-hernandez2026keeping .csl-entry}
 **Hernández, G. G.**, Slot, M., Cunha Godoy, L. da, Castro-Lara, R.,
-Pérez-Enríquez, A., Seemann, J. R., & García-Robledo, C. (2026). Keeping
+Pérez-Enrı́quez, A., Seemann, J. R., & Garcı́a-Robledo, C. (2026). Keeping
 up with the heat: Long-term dynamics and plasticity of heat tolerance in
-a tropical plant community. *New Phytologist*, *251*(5), 2459--2467.
-https://doi.org/<https://doi.org/10.1111/nph.71394>
+a tropical plant community. *New Phytologist*.
 :::
 
 ::: {#ref-hernandez2022evolutionary .csl-entry}
